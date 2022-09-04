@@ -1,8 +1,4 @@
 # solidity-studying
 以前学习了solidity,但是长时间不用，显得生疏，通过观看youtube上freecodecamp的solidity教程，再次学习solidity
 本文档固定更新
-pure&view
-pure和view调用是不改写链上状态，所以不消耗gas
-pure无法读取合约内的状态更无法改写
-view可以读取合约内的状态但是不能改写
 
